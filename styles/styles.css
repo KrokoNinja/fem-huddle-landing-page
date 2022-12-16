@@ -84,6 +84,8 @@ footer {
     left: 0;
     right: 0;
     color: white;
+    text-decoration: none;
+    color: white;
 }
 
 .content-wrapper{
@@ -172,11 +174,6 @@ footer {
     svg:is(:hover, :focus){
         fill: var(--primary-soft-magenta);
         border-color: var(--primary-soft-magenta);
-    }
-
-    footer a{
-        text-decoration: none;
-        color: white;
     }
 
     .content-wrapper{
