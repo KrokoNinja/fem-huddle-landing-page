@@ -84,6 +84,9 @@ footer {
     left: 0;
     right: 0;
     color: white;
+}
+
+footer a {
     text-decoration: none;
     color: white;
 }
