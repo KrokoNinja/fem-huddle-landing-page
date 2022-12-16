@@ -184,7 +184,8 @@ footer a {
         grid-template-columns: 55% 40%;
         grid-template-rows: none;
         justify-items: center;
-        gap: 5rem;
+        align-items: center;
+        gap: 3rem;
         position: relative;
         width: 100%;
         top: 35%;
